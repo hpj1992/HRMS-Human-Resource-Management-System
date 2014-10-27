@@ -1,0 +1,24 @@
+*******************************
+/////// HRMS//////////////////
+///////6th Semester///////////
+///////FTE , MSU /////////////
+*******************************
+
+
+Humar Resource Management System
+
+-This is desktop application which helps to easily manage employees as per their skills.
+
+-3 Users: 1)Admin 2)Client(Customer) 3) Employee
+
+-Customer gives projects to company.
+
+-Admin will allocate Employees to project recieved from customer based on
+	project requirement and available employees' skills.
+
+-Project status is shown to customer when he logs in.
+
+-Employee will be notofied about his new project on which he will work.
+
+-Payment module for completed projects are not  covered in HRMS project.
+
